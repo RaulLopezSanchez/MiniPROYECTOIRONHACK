@@ -1,0 +1,124 @@
+Objetivo:
+El objetivo de esta presentación es analizar y comprender los factores que influyen en el valor de mercado de los jugadores de fútbol. Utilizando técnicas de análisis de datos y visualización, exploraremos diferentes aspectos, como la edad, nacionalidad, habilidades técnicas y características físicas de los jugadores, para determinar si existe alguna relación significativa con su valor de mercado. Nuestra intención es presentar hallazgos y conclusiones claras y fundamentadas, que puedan servir de apoyo para la toma de decisiones estratégicas en el ámbito del fútbol y generar un mayor entendimiento sobre el mercado de transferencias en este deporte.
+
+Banco de preguntas. No se cierra a la idea de mientras más analice y avance en este proyecto se agreguen o cambien preguntas aquí.
+
+Pregunta 1: ¿Cuál es la relación entre la edad de un jugador y su valor de mercado? Presentar un análisis detallado de la relación entre la edad y el valor de mercado, incluyendo visualizaciones y resultados de la regresión lineal.
+
+Age: Edad
+Value: Valor de mercado
+
+Pregunta 2: ¿Cuál es la edad promedio de los jugadores en el conjunto de datos? Realizar un análisis de la distribución de edades y presenta la edad promedio.
+
+Age: Edad
+
+Pregunta 3: ¿Qué porcentaje de jugadores son diestros y qué porcentaje son zurdos? Proporcionar estadísticas sobre la preferencia de los jugadores diestros y zurdos.
+
+W/F: Preferencia de pie (diestro o zurdo)
+
+Pregunta 4: ¿Hay alguna diferencia en el valor de mercado entre jugadores diestros y zurdos? Analizar si la dominancia de un lado tiene algún impacto en el valor de mercado.
+
+W/F: Preferencia de pie (diestro o zurdo)
+Value: Valor de mercado
+
+Pregunta 5: ¿Cuáles son las posiciones más comunes en el conjunto de datos? Analizar la distribución de las posiciones de los jugadores y destaca las posiciones más frecuentes.
+
+Position: Posición del jugador
+
+Pregunta 6: ¿Existen correlaciones significativas entre las habilidades técnicas de los jugadores y su valor de mercado? Presentar un análisis de las habilidades técnicas y su relación con el valor de mercado.
+
+Las columnas relacionadas con las habilidades técnicas (por ejemplo, Crossing, Finishing, Dribbling, etc.)
+Value: Valor de mercado
+
+Pregunta 7: ¿Cuáles son las nacionalidades más representadas en el conjunto de datos? Presentar un análisis de las nacionalidades más comunes en los jugadores.
+
+Nationality: Nacionalidad del jugador
+
+Pregunta 8: ¿Los jugadores de ciertas nacionalidades tienen un valor de mercado más alto que otros? Explorar si hay diferencias significativas en el valor de mercado basadas en la nacionalidad.
+
+Nationality: Nacionalidad del jugador
+Value: Valor de mercado
+
+Pregunta 9: ¿Hay una relación entre la altura y el peso de los jugadores y su valor de mercado? Examinar si las características físicas influyen en el valor de mercado.
+
+Height: Altura del jugador
+Weight: Peso del jugador
+Value: Valor de mercado
+
+Pregunta 10: ¿Los jugadores jóvenes tienden a tener un potencial de crecimiento más alto y, por lo tanto, un valor de mercado más alto? Examinar si la edad y el potencial están relacionados con el valor de mercado.
+
+Age: Edad
+POT: Potencial de crecimiento
+Value: Valor de mercado
+
+Pregunta 11: ¿Existen diferencias en el valor de mercado entre los jugadores de diferentes ligas o competiciones? Analizar si la liga o competición en la que juegan los jugadores tiene un impacto en su valor de mercado.
+
+Club: Club del jugador
+Value: Valor de mercado
+
+Pregunta 12: ¿Cuáles son las habilidades técnicas más valoradas en los jugadores? Destacar las habilidades con mayor impacto en el valor de mercado.
+
+Las columnas relacionadas con las habilidades técnicas (por ejemplo, Crossing, Finishing, Dribbling, etc.)
+
+Pregunta 13: ¿Existe una correlación entre la puntuación general de un jugador y su valor de mercado? Examinar si los jugadores con puntuaciones más altas tienen un mayor valor de mercado.
+
+Total Stats: Puntuación general del jugador
+Value: Valor de mercado
+
+Pregunta 14: ¿Existe una relación entre la altura y el peso de los jugadores y su valor de mercado? Examinar si las características físicas, como la altura y el peso, influyen en el valor de mercado.
+
+Value: Valor de mercado de los jugadores.
+Height: Altura de los jugadores.
+Weight: Peso de los jugadores.
+
+
+
+Una idea de como presentar 
+Introducción y objetivo de la presentación.
+Pregunta 2: ¿Cuál es la edad promedio de los jugadores en el conjunto de datos? Realizar un análisis de la distribución de edades y presenta la edad promedio.
+Pregunta 7: ¿Cuáles son las nacionalidades más representadas en el conjunto de datos? Presentar un análisis de las nacionalidades más comunes en los jugadores.
+Pregunta 8: ¿Los jugadores de ciertas nacionalidades tienen un valor de mercado más alto que otros? Explorar si hay diferencias significativas en el valor de mercado basadas en la nacionalidad.
+Pregunta 5: ¿Cuáles son las posiciones más comunes en el conjunto de datos? Analizar la distribución de las posiciones de los jugadores y destaca las posiciones más frecuentes.
+Pregunta 9: ¿Hay una relación entre la altura y el peso de los jugadores y su valor de mercado? Examinar si las características físicas influyen en el valor de mercado.
+Pregunta 3: ¿Qué porcentaje de jugadores son diestros y qué porcentaje son zurdos? Proporcionar estadísticas sobre la preferencia de los jugadores diestros y zurdos.
+Pregunta 4: ¿Hay alguna diferencia en el valor de mercado entre jugadores diestros y zurdos? Analizar si la dominancia de un lado tiene algún impacto en el valor de mercado.
+Pregunta 6: ¿Existen correlaciones significativas entre las habilidades técnicas de los jugadores y su valor de mercado? Presentar un análisis de las habilidades técnicas y su relación con el valor de mercado.
+Pregunta 10: ¿Los jugadores jóvenes tienden a tener un potencial de crecimiento más alto y, por lo tanto, un valor de mercado más alto? Examinar si la edad y el potencial están relacionados con el valor de mercado.
+Pregunta 11: ¿Existen diferencias en el valor de mercado entre los jugadores de diferentes ligas o competiciones? Analizar si la liga o competición en la que juegan los jugadores tiene un impacto en su valor de mercado.
+Pregunta 1: ¿Cuál es la relación entre la edad de un jugador y su valor de mercado? Presentar un análisis detallado de la relación entre la edad y el valor de mercado, incluyendo visualizaciones y resultados de la regresión lineal.
+Pregunta 13: ¿Existe una correlación entre la puntuación general de un jugador y su valor de mercado? Examinar si los jugadores con puntuaciones más altas tienen un mayor valor de mercado.
+Pregunta 12: ¿Cuáles son las habilidades técnicas más valoradas en los jugadores? Destacar las habilidades con mayor impacto en el valor de mercado.
+Conclusiones y cierre de la presentación.
+
+Día 1: Limpieza de datos y exploración inicial
+
+Realizar una inspección inicial de los datos para identificar posibles problemas, como valores faltantes, datos atípicos o inconsistentes.
+Eliminar las columnas que no son relevantes para tus preguntas de análisis.
+Manejar los valores faltantes, ya sea eliminándolos o imputándolos según el contexto de los datos.
+Realizar una exploración inicial de los datos para obtener una comprensión general de la distribución y características de las variables.
+
+Día 2: Análisis descriptivo y visualización
+
+Realizar análisis descriptivos de las variables relevantes para responder las preguntas seleccionadas.
+Crear visualizaciones, como gráficos de barras, diagramas de dispersión o histogramas, para visualizar las relaciones y patrones de los datos.
+Examinar las correlaciones entre las variables utilizando técnicas como la matriz de correlación.
+
+Día 3: Análisis específico de preguntas
+
+Responder a las preguntas relacionadas con las nacionalidades de los jugadores y su impacto en el valor de mercado.
+Analizar las diferencias en el valor de mercado entre jugadores diestros y zurdos.
+Explorar la relación entre la altura, el peso y el valor de mercado de los jugadores.
+Realizar un análisis de regresión lineal para responder a la pregunta sobre la relación entre la edad de un jugador y su valor de mercado.
+
+Día 4: Análisis adicional y modelado
+
+Realizar un análisis de las habilidades técnicas de los jugadores y su relación con el valor de mercado.
+Examinar las diferencias en el valor de mercado entre jugadores de diferentes ligas o competiciones.
+
+
+Día 5: Conclusiones y presentación
+
+Sintetizar los resultados y conclusiones obtenidas de tu análisis.
+Preparra una presentación utilizando las visualizaciones y los hallazgos más relevantes.
+Destacar las respuestas a las preguntas seleccionadas y muestra cómo se relacionan con el objetivo de tu proyecto.
+Practicar y perfecciona tu presentación para asegurarte de que sea clara y concisa en el contexto del proyecto.
